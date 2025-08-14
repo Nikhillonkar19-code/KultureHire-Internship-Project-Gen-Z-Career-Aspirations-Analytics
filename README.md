@@ -95,6 +95,7 @@ By using **survey data**, **SQL analysis**, **Excel dashboards**, and **Power BI
 - KPIs: **Total Participants**, **Total Pin Codes**  
 - Interactive slicers for gender filtering  
 - Visuals for industry preference, salary ranges, and work arrangements  
+📊 [**View Executive Dashboard (Excel)**](https://github.com/Nikhillonkar19-code/KultureHire-Internship-Project-Gen-Z-Career-Aspirations-Analytics-/blob/main/Exploratory%20Data%20Analysis.xlsx)
 
 ---
 
