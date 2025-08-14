@@ -155,10 +155,9 @@ Each includes:
  
 
 ### Excel Executive Dashboard  
-[![Excel Executive Dashboard](YOUR_IMAGE_LINK)](https://github.com/Nikhillonkar19-code/KultureHire-Internship-Project-Gen-Z-Career-Aspirations-Analytics-/blob/main/Exploratory%20Data%20Analysis.xlsx)  
+[![Excel Executive Dashboard](https://github.com/Nikhillonkar19-code/KultureHire-Internship-Project-Gen-Z-Career-Aspirations-Analytics-/blob/main/Executive%20Dashboard%20in%20Excel.xlsx)](https://github.com/Nikhillonkar19-code/KultureHire-Internship-Project-Gen-Z-Career-Aspirations-Analytics-/blob/main/Executive%20Dashboard%20in%20Excel.xlsx)  
 **KPIs:** Total Participants, Total Pin Codes  
 **Features:** Interactive slicers for gender filtering; visuals for industry preference, salary ranges, and work arrangement trends.
- 
 
 ---
 
