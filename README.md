@@ -138,10 +138,13 @@ Each includes:
 ## 📷 Dashboard Preview  
 
 ### Power BI — Manager Aspirations  
-[![Manager Aspirations Dashboard](YOUR_IMAGE_LINK)](https://app.powerbi.com/view?r=eyJrIjoiMzU2OWEwZWItMjMzZS00M2M3LWIwMTctYjE1Yzc4MzE5Zjg5IiwidCI6IjNiYTNhODMxLTFkMzItNDA4My1hMzBjLWQ0YTk0NGYzNWI3ZSJ9)  
+[![Live Dashboard](https://img.shields.io/badge/View-Live%20Dashboard-blue?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiMzU2OWEwZWItMjMzZS00M2M3LWIwMTctYjE1Yzc4MzE5Zjg5IiwidCI6IjNiYTNhODMxLTFkMzItNDA4My1hMzBjLWQ0YTk0NGYzNWI3ZSJ9)  
+[![Manager Aspirations Dashboard](https://github.com/Nikhillonkar19-code/KultureHire-Internship-Project-Gen-Z-Career-Aspirations-Analytics-/blob/main/Manager%20Aspirations.png)](https://app.powerbi.com/view?r=eyJrIjoiMzU2OWEwZWItMjMzZS00M2M3LWIwMTctYjE1Yzc4MzE5Zjg5IiwidCI6IjNiYTNhODMxLTFkMzItNDA4My1hMzBjLWQ0YTk0NGYzNWI3ZSJ9)  
 
 ### Power BI — Mission Aspirations  
-[![Mission Aspirations Dashboard](YOUR_IMAGE_LINK)](https://app.powerbi.com/view?r=eyJrIjoiMzU2OWEwZWItMjMzZS00M2M3LWIwMTctYjE1Yzc4MzE5Zjg5IiwidCI6IjNiYTNhODMxLTFkMzItNDA4My1hMzBjLWQ0YTk0NGYzNWI3ZSJ9)  
+[![Live Dashboard](https://img.shields.io/badge/View-Live%20Dashboard-blue?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiMzU2OWEwZWItMjMzZS00M2M3LWIwMTctYjE1Yzc4MzE5Zjg5IiwidCI6IjNiYTNhODMxLTFkMzItNDA4My1hMzBjLWQ0YTk0NGYzNWI3ZSJ9)  
+[![Mission Aspirations Dashboard](https://github.com/Nikhillonkar19-code/KultureHire-Internship-Project-Gen-Z-Career-Aspirations-Analytics-/blob/main/Mission%20Aspirations.png)](https://app.powerbi.com/view?r=eyJrIjoiMzU2OWEwZWItMjMzZS00M2M3LWIwMTctYjE1Yzc4MzE5Zjg5IiwidCI6IjNiYTNhODMxLTFkMzItNDA4My1hMzBjLWQ0YTk0NGYzNWI3ZSJ9)  
+ 
 
 ### Excel Executive Dashboard  
 ![Excel Executive Dashboard](YOUR_IMAGE_LINK)  
