@@ -118,6 +118,7 @@ Each includes:
   - Methodology  
   - Findings & Insights  
   - Recommendations  
+📄 [**Download Final Presentation**](https://github.com/Nikhillonkar19-code/KultureHire-Internship-Project-Gen-Z-Career-Aspirations-Analytics-/blob/main/Project%20Presentation%20Data%20Analytics%20for%20understanding%20career%20aspirations%20Gen%20Z.pptx)
 
 ---
 
