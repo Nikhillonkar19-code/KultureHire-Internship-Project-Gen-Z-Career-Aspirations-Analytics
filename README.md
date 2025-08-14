@@ -135,11 +135,13 @@ Each includes:
 
 ## 📷 Dashboard Preview  
 
+## 📷 Dashboard Preview  
+
 ### Power BI — Manager Aspirations  
-![Manager Aspirations Dashboard](YOUR_IMAGE_LINK)  
+[![Manager Aspirations Dashboard](YOUR_IMAGE_LINK)](https://app.powerbi.com/view?r=eyJrIjoiMzU2OWEwZWItMjMzZS00M2M3LWIwMTctYjE1Yzc4MzE5Zjg5IiwidCI6IjNiYTNhODMxLTFkMzItNDA4My1hMzBjLWQ0YTk0NGYzNWI3ZSJ9)  
 
 ### Power BI — Mission Aspirations  
-![Mission Aspirations Dashboard](YOUR_IMAGE_LINK)  
+[![Mission Aspirations Dashboard](YOUR_IMAGE_LINK)](https://app.powerbi.com/view?r=eyJrIjoiMzU2OWEwZWItMjMzZS00M2M3LWIwMTctYjE1Yzc4MzE5Zjg5IiwidCI6IjNiYTNhODMxLTFkMzItNDA4My1hMzBjLWQ0YTk0NGYzNWI3ZSJ9)  
 
 ### Excel Executive Dashboard  
 ![Excel Executive Dashboard](YOUR_IMAGE_LINK)  
