@@ -4,7 +4,7 @@ Data analytics project to understand and bridge the gap between **Gen Z career e
 
 # 👩‍💼 Understanding the Career Aspirations of Gen Z — Data Analytics Project  
 
-[![Live Power BI Dashboard](https://img.shields.io/badge/View-Live%20Dashboard-blue?style=for-the-badge&logo=powerbi)](YOUR_POWERBI_LINK)
+[![Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzU2OWEwZWItMjMzZS00M2M3LWIwMTctYjE1Yzc4MzE5Zjg5IiwidCI6IjNiYTNhODMxLTFkMzItNDA4My1hMzBjLWQ0YTk0NGYzNWI3ZSJ9)  
 
 ---
 
