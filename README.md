@@ -86,6 +86,7 @@ By using **survey data**, **SQL analysis**, **Excel dashboards**, and **Power BI
   - Segmenting by work arrangement preference  
   - Salary expectations vs actual employer offers  
   - Role of purpose-driven work in job selection  
+📄 [**View SQL Analysis Document**](https://github.com/Nikhillonkar19-code/KultureHire-Internship-Project-Gen-Z-Career-Aspirations-Analytics-/blob/main/Gen-Z%20Career%20Insights%2C%20MySQL%20Data%20Analysis%20(1).docx)
 
 ---
 
