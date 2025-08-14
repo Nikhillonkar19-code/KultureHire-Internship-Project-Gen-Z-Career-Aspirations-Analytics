@@ -75,6 +75,7 @@ By using **survey data**, **SQL analysis**, **Excel dashboards**, and **Power BI
 5. What role do personal values & social impact play?  
 
 **Tools Used:** Excel Pivot Tables, Charts  
+📄 [**View EDA Excel File**](https://github.com/Nikhillonkar19-code/KultureHire-Internship-Project-Gen-Z-Career-Aspirations-Analytics-/blob/main/Exploratory%20Data%20Analysis.xlsx)
 
 ---
 
