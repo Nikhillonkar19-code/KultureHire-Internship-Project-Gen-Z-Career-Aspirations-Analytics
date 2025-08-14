@@ -58,7 +58,9 @@ By using **survey data**, **SQL analysis**, **Excel dashboards**, and **Power BI
   - Standardize columns/rows  
   - Remove nulls/duplicates  
   - Format categorical & numerical variables  
-- [View Cleaned Data](https://docs.google.com/spreadsheets/d/1me-0pfQ27rCEa8pEaB5ObcOT1RI-QW7XxrMj-iUu9Xs/edit?usp=sharing)  
+- ### 📂 Cleaned Data File  
+[![Download Cleaned Data](https://img.shields.io/badge/Download-Cleaned%20Data-green?style=for-the-badge&logo=microsoft-excel)](https://github.com/Nikhillonkar19-code/KultureHire-Internship-Project-Gen-Z-Career-Aspirations-Analytics-/blob/main/cleaned_genz_data%20(1).xlsx)
+
 
 ---
 
