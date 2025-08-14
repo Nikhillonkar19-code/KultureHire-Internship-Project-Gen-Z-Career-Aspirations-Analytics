@@ -1,32 +1,32 @@
-# KultureHire-Internship-Project-Gen-Z-Career-Aspirations-Analytics-
+# **KultureHire-Internship-Project-Gen-Z-Career-Aspirations-Analytics-**  
 Data analytics project to understand and bridge the gap between **Gen Z career expectations** and **employer offerings** using **surveys, SQL, Excel, and Power BI dashboards**.
 
+---
 
 # 👩‍💼 Understanding the Career Aspirations of Gen Z — Data Analytics Project  
 
-
 [![Live Power BI Dashboard](https://img.shields.io/badge/View-Live%20Dashboard-blue?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiMzU2OWEwZWItMjMzZS00M2M3LWIwMTctYjE1Yzc4MzE5Zjg5IiwidCI6IjNiYTNhODMxLTFkMzItNDA4My1hMzBjLWQ0YTk0NGYzNWI3ZSJ9)
-
 
 ---
 
 ## 📌 Project Overview  
 This project focuses on **descriptive and diagnostic analytics** to understand the **career aspirations of Generation Z** and bridge the gap between **employer expectations** and **Gen Z workforce demands**.
 
-The goal is to:
-- **Identify what Gen Z values most** in their careers.
-- **Understand employer challenges** in attracting and retaining Gen Z talent.
-- Provide **data-driven recommendations** to align recruitment, retention, and work culture strategies.
+**Goals:**  
+- Identify what Gen Z values most in their careers.  
+- Understand employer challenges in attracting and retaining Gen Z talent.  
+- Provide data-driven recommendations to align recruitment, retention, and work culture strategies.  
 
 ---
 
 ## 🏢 Why This Project Matters  
-Gen Z is entering the workforce with **different priorities** — flexibility, purpose, work-life balance, and inclusivity. Employers often struggle to:
-- Understand **what motivates Gen Z**.
-- Offer policies and culture that match expectations.
-- Reduce turnover among younger employees.
+Gen Z enters the workforce with **different priorities** — flexibility, purpose, work-life balance, and inclusivity.  
+Employers often struggle to:  
+- Understand **what motivates Gen Z**.  
+- Offer policies and culture that match expectations.  
+- Reduce turnover among younger employees.  
 
-By using **survey data**, **SQL analysis**, **Excel dashboards**, and **Power BI visualizations**, this project delivers **actionable insights** for HR leaders and recruiters.
+Using **survey data**, **SQL analysis**, **Excel dashboards**, and **Power BI visualizations**, this project delivers **actionable insights** for HR leaders and recruiters.
 
 ---
 
@@ -48,21 +48,21 @@ By using **survey data**, **SQL analysis**, **Excel dashboards**, and **Power BI
 ---
 
 ### **2. Data Collection**  
-- **Tools Used:** Google Forms, Social Media, Targeted Interviews  
-- **Variables Collected:**  
-  - **Gen Z:** Age, Gender, Location, Education, Industry Preference, Salary Expectations, Work Arrangement, Career Growth, Purpose-Driven Work, Mental Health Support.  
-  - **Employers:** Industry, Company Size, Hiring Challenges, Retention Issues, Salary Offered, Benefits, Company Culture, Recruitment Methods.  
+**Tools Used:** Google Forms, Social Media, Targeted Interviews  
+
+**Variables Collected:**  
+- **Gen Z:** Age, Gender, Location, Education, Industry Preference, Salary Expectations, Work Arrangement, Career Growth, Purpose-Driven Work, Mental Health Support.  
+- **Employers:** Industry, Company Size, Hiring Challenges, Retention Issues, Salary Offered, Benefits, Company Culture, Recruitment Methods.  
 
 ---
 
 ### **3. Data Cleaning & Standardization**  
-- Used **Microsoft Excel** to:
-  - Standardize columns/rows  
-  - Remove nulls/duplicates  
-  - Format categorical & numerical variables  
-- ### 📂 Cleaned Data File  
-[![Download Cleaned Data](https://img.shields.io/badge/Download-Cleaned%20Data-green?style=for-the-badge&logo=microsoft-excel)](https://github.com/Nikhillonkar19-code/KultureHire-Internship-Project-Gen-Z-Career-Aspirations-Analytics-/blob/main/cleaned_genz_data%20(1).xlsx)
+- Standardized columns/rows  
+- Removed nulls/duplicates  
+- Formatted categorical & numerical variables  
 
+📂 **Cleaned Data File**  
+[![Download Cleaned Data](https://img.shields.io/badge/Download-Cleaned%20Data-green?style=for-the-badge&logo=microsoft-excel)](https://github.com/Nikhillonkar19-code/KultureHire-Internship-Project-Gen-Z-Career-Aspirations-Analytics-/blob/main/cleaned_genz_data%20(1).xlsx)
 
 ---
 
@@ -74,102 +74,74 @@ By using **survey data**, **SQL analysis**, **Excel dashboards**, and **Power BI
 4. How do financial goals impact their aspirations?  
 5. What role do personal values & social impact play?  
 
-**Tools Used:** Excel Pivot Tables, Charts  
 📄 [**View EDA Excel File**](https://github.com/Nikhillonkar19-code/KultureHire-Internship-Project-Gen-Z-Career-Aspirations-Analytics-/blob/main/Exploratory%20Data%20Analysis.xlsx)
 
 ---
 
 ### **5. Data Analysis in SQL**  
-- **Database:** MySQL  
-- **Analysis Performed:**  
-  - Ranking industries by Gen Z preference  
-  - Identifying top influencing factors  
-  - Segmenting by work arrangement preference  
-  - Salary expectations vs actual employer offers  
-  - Role of purpose-driven work in job selection  
+- Ranking industries by Gen Z preference  
+- Identifying top influencing factors  
+- Segmenting by work arrangement preference  
+- Salary expectations vs actual employer offers  
+- Role of purpose-driven work in job selection  
+
 📄 [**View SQL Analysis Document**](https://github.com/Nikhillonkar19-code/KultureHire-Internship-Project-Gen-Z-Career-Aspirations-Analytics-/blob/main/Gen-Z%20Career%20Insights%2C%20MySQL%20Data%20Analysis%20(1).docx)
 
 ---
 
 ### **6. Executive Dashboard in Excel**  
-- KPIs: **Total Participants**, **Total Pin Codes**  
+- KPIs: Total Participants, Total Pin Codes  
 - Interactive slicers for gender filtering  
 - Visuals for industry preference, salary ranges, and work arrangements  
-📊 [**View Executive Dashboard (Excel)**](https://github.com/Nikhillonkar19-code/KultureHire-Internship-Project-Gen-Z-Career-Aspirations-Analytics-/blob/main/Exploratory%20Data%20Analysis.xlsx)
+
+📊 [**View Executive Dashboard (Excel)**](https://github.com/Nikhillonkar19-code/KultureHire-Internship-Project-Gen-Z-Career-Aspirations-Analytics-/blob/main/Executive%20Dashboard%20in%20Excel.xlsx)
 
 ---
 
 ### **7. Functional Dashboards in Power BI**  
-**Focus Areas:**  
-1. **Manager Aspirations Dashboard** — Employer expectations from Gen Z  
-2. **Mission Aspirations Dashboard** — Purpose-driven and values-oriented goals of Gen Z  
 
-Each includes:  
-- KPIs: Total Participants, Total Pin Codes  
-- Filters: Gender, Industry, Location  
-- Visualizations: Industry demand, Work arrangement trends, Purpose alignment  
+#### **Manager Aspirations**  
+[![View Live Dashboard](https://img.shields.io/badge/View-Live%20Dashboard-blue?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiMzU2OWEwZWItMjMzZS00M2M3LWIwMTctYjE1Yzc4MzE5Zjg5IiwidCI6IjNiYTNhODMxLTFkMzItNDA4My1hMzBjLWQ0YTk0NGYzNWI3ZSJ9)  
+[![Manager Aspirations Dashboard](https://github.com/Nikhillonkar19-code/KultureHire-Internship-Project-Gen-Z-Career-Aspirations-Analytics-/blob/main/Manager%20Aspirations.png)](https://app.powerbi.com/view?r=eyJrIjoiMzU2OWEwZWItMjMzZS00M2M3LWIwMTctYjE1Yzc4MzE5Zjg5IiwidCI6IjNiYTNhODMxLTFkMzItNDA4My1hMzBjLWQ0YTk0NGYzNWI3ZSJ9)
+
+#### **Mission Aspirations**  
+[![View Live Dashboard](https://img.shields.io/badge/View-Live%20Dashboard-blue?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiMzU2OWEwZWItMjMzZS00M2M3LWIwMTctYjE1Yzc4MzE5Zjg5IiwidCI6IjNiYTNhODMxLTFkMzItNDA4My1hMzBjLWQ0YTk0NGYzNWI3ZSJ9)  
+[![Mission Aspirations Dashboard](https://github.com/Nikhillonkar19-code/KultureHire-Internship-Project-Gen-Z-Career-Aspirations-Analytics-/blob/main/Mission%20Aspirations.png)](https://app.powerbi.com/view?r=eyJrIjoiMzU2OWEwZWItMjMzZS00M2M3LWIwMTctYjE1Yzc4MzE5Zjg5IiwidCI6IjNiYTNhODMxLTFkMzItNDA4My1hMzBjLWQ0YTk0NGYzNWI3ZSJ9)
 
 ---
 
 ### **8. Final Presentation**  
-- Created in **Microsoft PowerPoint** for stakeholders  
-- Sections included:  
-  - Project Overview  
-  - Methodology  
-  - Findings & Insights  
-  - Recommendations  
 📄 [**Download Final Presentation**](https://github.com/Nikhillonkar19-code/KultureHire-Internship-Project-Gen-Z-Career-Aspirations-Analytics-/blob/main/Project%20Presentation%20Data%20Analytics%20for%20understanding%20career%20aspirations%20Gen%20Z.pptx)
 
 ---
 
 ## 📈 Key Insights  
-- **Top Industries:** Tech, Creative Arts, and Healthcare lead Gen Z’s preferences.  
-- **Top Motivators:** Flexible work arrangements, career growth opportunities, and purpose-driven work.  
-- **Salary Expectations:** Higher than market average for entry-level roles.  
-- **Work Arrangement:** Strong preference for **hybrid/remote** over in-office roles.  
-- **Value Alignment:** Over 60% value employers’ stance on mental health, diversity, and sustainability.  
+- **Top Industries:** Tech, Creative Arts, and Healthcare dominate Gen Z’s career interest.  
+- **Top Motivators:** Flexible work, growth opportunities, purpose-driven roles.  
+- **Salary Expectations:** Above average for entry-level positions.  
+- **Work Arrangement:** Strong preference for hybrid/remote work.  
+- **Values:** 60%+ care about employers’ mental health, diversity, and sustainability policies.  
 
 ---
 
 ## 🛠 Tools & Skills Used  
 - **Google Forms** — Survey creation & distribution  
 - **Microsoft Excel** — Data cleaning, EDA, Dashboard creation  
-- **MySQL / SQL** — Querying, joins, and business analysis  
+- **MySQL / SQL** — Querying, joins, and insights generation  
 - **Microsoft Power BI** — Interactive dashboards & KPIs  
-- **Microsoft PowerPoint** — Project presentation  
+- **Microsoft PowerPoint** — Presentation creation  
 - **Soft Skills:** Problem-solving, Stakeholder Communication, Data Storytelling  
 
 ---
 
-## 📷 Dashboard Preview  
-
-## 📷 Dashboard Preview  
-
-### Power BI — Manager Aspirations  
-[![Live Dashboard](https://img.shields.io/badge/View-Live%20Dashboard-blue?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiMzU2OWEwZWItMjMzZS00M2M3LWIwMTctYjE1Yzc4MzE5Zjg5IiwidCI6IjNiYTNhODMxLTFkMzItNDA4My1hMzBjLWQ0YTk0NGYzNWI3ZSJ9)  
-[![Manager Aspirations Dashboard](https://github.com/Nikhillonkar19-code/KultureHire-Internship-Project-Gen-Z-Career-Aspirations-Analytics-/blob/main/Manager%20Aspirations.png)](https://app.powerbi.com/view?r=eyJrIjoiMzU2OWEwZWItMjMzZS00M2M3LWIwMTctYjE1Yzc4MzE5Zjg5IiwidCI6IjNiYTNhODMxLTFkMzItNDA4My1hMzBjLWQ0YTk0NGYzNWI3ZSJ9)  
-
-### Power BI — Mission Aspirations  
-[![Live Dashboard](https://img.shields.io/badge/View-Live%20Dashboard-blue?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiMzU2OWEwZWItMjMzZS00M2M3LWIwMTctYjE1Yzc4MzE5Zjg5IiwidCI6IjNiYTNhODMxLTFkMzItNDA4My1hMzBjLWQ0YTk0NGYzNWI3ZSJ9)  
-[![Mission Aspirations Dashboard](https://github.com/Nikhillonkar19-code/KultureHire-Internship-Project-Gen-Z-Career-Aspirations-Analytics-/blob/main/Mission%20Aspirations.png)](https://app.powerbi.com/view?r=eyJrIjoiMzU2OWEwZWItMjMzZS00M2M3LWIwMTctYjE1Yzc4MzE5Zjg5IiwidCI6IjNiYTNhODMxLTFkMzItNDA4My1hMzBjLWQ0YTk0NGYzNWI3ZSJ9)  
- 
-
-### Excel Executive Dashboard  
-[![Excel Executive Dashboard](https://github.com/Nikhillonkar19-code/KultureHire-Internship-Project-Gen-Z-Career-Aspirations-Analytics-/blob/main/Executive%20Dashboard%20in%20Excel.xlsx)](https://github.com/Nikhillonkar19-code/KultureHire-Internship-Project-Gen-Z-Career-Aspirations-Analytics-/blob/main/Executive%20Dashboard%20in%20Excel.xlsx)  
-**KPIs:** Total Participants, Total Pin Codes  
-**Features:** Interactive slicers for gender filtering; visuals for industry preference, salary ranges, and work arrangement trends.
-
----
-
 ## 📘 Learning Outcomes  
-This project helped me:  
-- Master **survey-based data collection** and **public domain analytics**.  
-- Apply **descriptive & diagnostic analytics** for HR insights.  
-- Build **Excel & Power BI dashboards** tailored to different stakeholders.  
-- Translate **raw survey data into actionable recruitment strategies**.  
+- Mastered **survey-based data collection**  
+- Applied **descriptive & diagnostic analytics** for HR insights  
+- Built **Excel & Power BI dashboards** for different stakeholders  
+- Turned **raw survey data into actionable recruitment strategies**  
 
 ---
 
 ## 👤 Author  
 **Nikhil Lonkar**  
-[LinkedIn](https://linkedin.com/in/nikhil-lonkar-0436a1338)  
+[LinkedIn](https://linkedin.com/in/nikhil-lonkar-0436a1338)
